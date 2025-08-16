@@ -36,9 +36,3 @@ Respect privacy and legal guidelines.
 # Disclaimer
 
 This tool is intended for learning and research only. The developer assumes no responsibility for misuse or illegal activities related to its use.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Note: Ensure you have appropriate permissions before capturing network traffic on any network.
